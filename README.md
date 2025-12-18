@@ -57,10 +57,9 @@ Beautiful-Calculator/
 ---
 
 ## 📸 Preview
-
-> You can add a screenshot or GIF of the calculator here for better presentation.
-
----
+<img width="1600" height="869" alt="image" src="https://github.com/user-attachments/assets/41a6f01e-f114-4b77-a517-3c813b7dd44b" />
+<img width="393" height="522" alt="image" src="https://github.com/user-attachments/assets/604e84cf-d16c-4d2d-b3e0-4a950a755dd7" />
+<img width="378" height="512" alt="image" src="https://github.com/user-attachments/assets/0afbb4ae-2b29-424e-920a-1fd4c66e07b0" 
 
 ## 🎯 Learning Outcomes
 
@@ -83,8 +82,9 @@ Beautiful-Calculator/
 BCA (Data Science) Student
 Rungta International Skills University
 
-* GitHub: [https://github.com/prashant-tiwari-sys](https://github.com/prashant-tiwari-sys)
+* GitHub: [https://github.com/prashant-tiwari-sys]
 * LinkedIn: [https://www.linkedin.com/in/prashant-tiwari-25a68b383](https://www.linkedin.com/in/prashant-tiwari-25a68b383)
+* Website: [https://prashant-tiwari-sys.github.io/project-1-calculator-/]
 
 ## ⭐ Support
 
